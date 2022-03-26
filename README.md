@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NetCore, Angular**
 
-- 🤝 I’m looking to **meet with all kinds of people!**
+- 🤝 I’m looking to meet with all kinds of people!
 
 - 📫 How to reach me **harunyilmaaz@gmail.com**
 
